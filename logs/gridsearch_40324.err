@@ -1,0 +1,8 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+mkdir: cannot create directory ‘/local/tmp’: Permission denied
+  0%|          | 0/138 [00:00<?, ?it/s]  1%|          | 1/138 [00:01<03:45,  1.65s/it]  1%|▏         | 2/138 [00:02<02:18,  1.02s/it] 24%|██▍       | 33/138 [00:02<00:04, 22.95it/s] 30%|██▉       | 41/138 [00:03<00:05, 18.51it/s] 36%|███▌      | 50/138 [00:03<00:03, 23.25it/s] 41%|████      | 56/138 [00:03<00:03, 22.87it/s] 48%|████▊     | 66/138 [00:03<00:02, 28.63it/s] 51%|█████▏    | 71/138 [00:04<00:03, 19.14it/s] 59%|█████▉    | 82/138 [00:04<00:02, 27.16it/s] 63%|██████▎   | 87/138 [00:04<00:02, 25.41it/s] 67%|██████▋   | 92/138 [00:04<00:01, 27.84it/s] 72%|███████▏  | 99/138 [00:05<00:01, 25.47it/s] 75%|███████▍  | 103/138 [00:05<00:01, 18.70it/s] 80%|███████▉  | 110/138 [00:05<00:01, 24.01it/s] 86%|████████▌ | 119/138 [00:05<00:00, 31.81it/s] 90%|████████▉ | 124/138 [00:05<00:00, 31.54it/s] 94%|█████████▍| 130/138 [00:06<00:00, 35.57it/s] 99%|█████████▉| 137/138 [00:06<00:00, 41.40it/s]100%|██████████| 138/138 [00:06<00:00, 20.59it/s]
+/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pybaseball/statcast.py:85: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  final_data = pd.concat(dataframe_list, axis=0).convert_dtypes(convert_string=False)
+  0%|          | 0/93750 [00:00<?, ?it/s]
