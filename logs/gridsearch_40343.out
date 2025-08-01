@@ -1,0 +1,317 @@
+/sciclone/home/tdfelton
+ku10.sciclone.wm.edu
+Thu Jul 31 01:34:35 PM EDT 2025
+2.3.1
+This is a large query, it may take a moment to complete
+Skipping offseason dates
+Learning rate set to 0.041123
+0:	learn: 0.5777778	test: 0.5436893	best: 0.5436893 (0)	total: 65.9ms	remaining: 1m 5s
+100:	learn: 0.8579053	test: 0.8346883	best: 0.8432432 (89)	total: 1.68s	remaining: 14.9s
+200:	learn: 0.9210783	test: 0.8905660	best: 0.8928121 (191)	total: 3.33s	remaining: 13.2s
+300:	learn: 0.9581455	test: 0.9000000	best: 0.9022556 (270)	total: 4.97s	remaining: 11.6s
+Stopped by overfitting detector  (50 iterations wait)
+
+bestTest = 0.9022556391
+bestIteration = 270
+
+Shrink model to first 271 iterations.
+[[470  60]
+ [  9 180]]
+              precision    recall  f1-score   support
+
+           0      0.981     0.887     0.932       530
+           1      0.750     0.952     0.839       189
+
+    accuracy                          0.904       719
+   macro avg      0.866     0.920     0.885       719
+weighted avg      0.920     0.904     0.907       719
+
+Learning rate set to 0.009127
+0:	learn: 0.7094195	total: 18.3ms	remaining: 18.3s
+100:	learn: 0.7610276	total: 1.68s	remaining: 15s
+200:	learn: 0.7955917	total: 3.29s	remaining: 13.1s
+300:	learn: 0.8276633	total: 4.89s	remaining: 11.4s
+400:	learn: 0.8523114	total: 6.49s	remaining: 9.7s
+500:	learn: 0.8798450	total: 8.08s	remaining: 8.05s
+600:	learn: 0.8949605	total: 9.74s	remaining: 6.46s
+700:	learn: 0.9101449	total: 11.4s	remaining: 4.85s
+800:	learn: 0.9302018	total: 13s	remaining: 3.23s
+900:	learn: 0.9470056	total: 14.7s	remaining: 1.61s
+999:	learn: 0.9673614	total: 16.3s	remaining: 0us
+[[85 33]
+ [33 38]]
+              precision    recall  f1-score   support
+
+           0      0.720     0.720     0.720       118
+           1      0.535     0.535     0.535        71
+
+    accuracy                          0.651       189
+   macro avg      0.628     0.628     0.628       189
+weighted avg      0.651     0.651     0.651       189
+
+Learning rate set to 0.009127
+0:	learn: 0.7091609	total: 16.4ms	remaining: 16.4s
+100:	learn: 0.7861793	total: 1.4s	remaining: 12.5s
+200:	learn: 0.8170805	total: 2.79s	remaining: 11.1s
+300:	learn: 0.8454964	total: 4.18s	remaining: 9.7s
+400:	learn: 0.8691579	total: 5.54s	remaining: 8.27s
+500:	learn: 0.8852875	total: 6.93s	remaining: 6.9s
+600:	learn: 0.9110746	total: 8.32s	remaining: 5.52s
+700:	learn: 0.9259123	total: 9.73s	remaining: 4.15s
+800:	learn: 0.9343005	total: 11.2s	remaining: 2.77s
+900:	learn: 0.9598238	total: 12.6s	remaining: 1.39s
+999:	learn: 0.9723719	total: 14.1s	remaining: 0us
+Threshold used: 0.52
+[[84 34]
+ [31 40]]
+              precision    recall  f1-score   support
+
+           0      0.730     0.712     0.721       118
+           1      0.541     0.563     0.552        71
+
+    accuracy                          0.656       189
+   macro avg      0.635     0.638     0.636       189
+weighted avg      0.659     0.656     0.657       189
+
+AUC: 0.714
+Mean F1 across folds: 0.5350185183046057
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=10, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=13, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=17, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=25, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=21, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=28, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.533
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.592
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=32, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.575
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.542
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.450
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.417
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.500
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.600
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.517
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.550
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.525
+Starting: top_N=10, scale_wt=1.00, esr=36, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.467
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.458
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.567
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.408
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.442
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.433
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.483
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.400
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.425
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.558
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.508
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.475
+Starting: top_N=10, scale_wt=1.00, esr=40, thresh=0.583
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.492
+Starting: top_N=10, scale_wt=1.00, esr=43, thresh=0.433

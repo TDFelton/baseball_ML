@@ -1,0 +1,2640 @@
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+    with get_handle(
+         ^^^^^^^^^^^
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 23, in <module>
+    X = pd.read_pickle("/sciclone/home/tdfelton/baseball/data/X_stage2.pkl")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/pickle.py", line 185, in read_pickle
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/sciclone/home/tdfelton/baseball/data/X_stage2.pkl'

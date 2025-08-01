@@ -1,0 +1,27 @@
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[proxy:0:2@ku12.sciclone.wm.edu] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:152): execvp error on file /sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py (Permission denied)
+[mpiexec@ku10.sciclone.wm.edu] cmd_bcast_root (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:173): assert (!closed) failed
+[mpiexec@ku10.sciclone.wm.edu] send_signal_downstream (../../../../../src/pm/i_hydra/mpiexec/intel/i_mpiexec.c:584): unable to send response downstream
+[mpiexec@ku10.sciclone.wm.edu] control_cb (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1650): unable to send signal to downstreams
+[mpiexec@ku10.sciclone.wm.edu] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:78): callback returned error status
+[mpiexec@ku10.sciclone.wm.edu] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1970): error waiting for event
+Broken pipe

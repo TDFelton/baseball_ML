@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 98, in <module>
+    df = df.sort_values(by='mean_f1', ascending=False)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/core/frame.py", line 7196, in sort_values
+    k = self._get_label_or_level_values(by[0], axis=axis)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sciclone/home/tdfelton/.conda/envs/baseball2/lib/python3.11/site-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'mean_f1'

@@ -1,0 +1,74 @@
+/sciclone/home/tdfelton/baseball
+ku10.sciclone.wm.edu
+Thu Jul 31 01:19:04 PM EDT 2025
+2.3.1
+This is a large query, it may take a moment to complete
+Skipping offseason dates
+Learning rate set to 0.041123
+0:	learn: 0.6495507	test: 0.6532663	best: 0.6532663 (0)	total: 66.3ms	remaining: 1m 6s
+Stopped by overfitting detector  (50 iterations wait)
+
+bestTest = 0.6532663317
+bestIteration = 0
+
+Shrink model to first 1 iterations.
+[[372 158]
+ [ 59 130]]
+              precision    recall  f1-score   support
+
+           0      0.863     0.702     0.774       530
+           1      0.451     0.688     0.545       189
+
+    accuracy                          0.698       719
+   macro avg      0.657     0.695     0.660       719
+weighted avg      0.755     0.698     0.714       719
+
+Learning rate set to 0.009127
+0:	learn: 0.6728449	total: 17.8ms	remaining: 17.8s
+100:	learn: 0.7737802	total: 1.59s	remaining: 14.2s
+200:	learn: 0.7966607	total: 3.19s	remaining: 12.7s
+300:	learn: 0.8308263	total: 4.74s	remaining: 11s
+400:	learn: 0.8531454	total: 6.32s	remaining: 9.44s
+500:	learn: 0.8744511	total: 7.89s	remaining: 7.86s
+600:	learn: 0.8949056	total: 9.51s	remaining: 6.31s
+700:	learn: 0.9092408	total: 11.1s	remaining: 4.75s
+800:	learn: 0.9274149	total: 12.7s	remaining: 3.17s
+900:	learn: 0.9558860	total: 14.4s	remaining: 1.58s
+999:	learn: 0.9726094	total: 16s	remaining: 0us
+[[64 54]
+ [27 44]]
+              precision    recall  f1-score   support
+
+           0      0.703     0.542     0.612       118
+           1      0.449     0.620     0.521        71
+
+    accuracy                          0.571       189
+   macro avg      0.576     0.581     0.567       189
+weighted avg      0.608     0.571     0.578       189
+
+Learning rate set to 0.009127
+0:	learn: 0.7016047	total: 16.4ms	remaining: 16.4s
+100:	learn: 0.7773256	total: 1.35s	remaining: 12s
+200:	learn: 0.8105011	total: 2.67s	remaining: 10.6s
+300:	learn: 0.8442907	total: 3.99s	remaining: 9.26s
+400:	learn: 0.8675778	total: 5.31s	remaining: 7.94s
+500:	learn: 0.8855613	total: 6.65s	remaining: 6.63s
+600:	learn: 0.9092308	total: 8.01s	remaining: 5.32s
+700:	learn: 0.9248053	total: 9.38s	remaining: 4s
+800:	learn: 0.9434321	total: 10.8s	remaining: 2.67s
+900:	learn: 0.9568675	total: 12.2s	remaining: 1.33s
+999:	learn: 0.9667936	total: 13.5s	remaining: 0us
+Threshold used: 0.52
+[[81 37]
+ [33 38]]
+              precision    recall  f1-score   support
+
+           0      0.711     0.686     0.698       118
+           1      0.507     0.535     0.521        71
+
+    accuracy                          0.630       189
+   macro avg      0.609     0.611     0.609       189
+weighted avg      0.634     0.630     0.632       189
+
+AUC: 0.671
+Mean F1 across folds: 0.5363375050497178

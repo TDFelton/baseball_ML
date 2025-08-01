@@ -1,0 +1,96 @@
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'mpi4py'
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 3, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'

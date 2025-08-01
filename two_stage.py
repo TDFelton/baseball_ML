@@ -310,9 +310,9 @@ imp_df = pd.DataFrame({ "Feature": features, "Importance": importances })
 # --------------------------
 # Grid Parameters (linspace)
 # --------------------------
-top_N_list = np.linspace(10, 150, num=25, dtype=int)
-scale_pos_weights = np.linspace(1.0, 10.0, num=15)
-early_stops = np.linspace(10, 200, num=10, dtype=int)
+top_N_list = np.linspace(10, 250, num=25, dtype=int)
+scale_pos_weights = np.linspace(1.0, 10.0, num=25)
+early_stops = np.linspace(10, 100, num=25, dtype=int)
 thresholds = np.linspace(0.4, 0.6, num=25)
 
 param_grid = list(product(top_N_list, scale_pos_weights, early_stops, thresholds))
@@ -322,6 +322,7 @@ skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
 # Parallel Evaluation Function
 # --------------------------
 def evaluate_combo(top_N, scale_wt, esr, thresh):
+    print(f"Starting: top_N={top_N}, scale_wt={scale_wt:.2f}, esr={esr}, thresh={thresh:.3f}", flush=True)
     top_features = imp_df.sort_values(by="Importance", ascending=False)["Feature"].head(top_N).tolist()
     cat_top = [col for col in top_features if col in categorical_cols]
     X_subset = X[top_features]
@@ -356,10 +357,13 @@ def evaluate_combo(top_N, scale_wt, esr, thresh):
 # --------------------------
 # Run in Parallel
 # --------------------------
-results = Parallel(n_jobs=-1)(
-    delayed(evaluate_combo)(top_N, scale_wt, esr, thresh)
-    for (top_N, scale_wt, esr, thresh) in tqdm(param_grid)
-)
+from joblib import parallel_backend
+
+with parallel_backend("loky", n_jobs=240):  # Use all 10 nodes × 24 cores
+    results = Parallel()(
+        delayed(evaluate_combo)(top_N, scale_wt, esr, thresh)
+        for (top_N, scale_wt, esr, thresh) in tqdm(param_grid)
+    )
 
 # --------------------------
 # Results Summary

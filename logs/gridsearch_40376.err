@@ -1,0 +1,1200 @@
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+                                                                                                 ^^^
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+                                                                                                 ^^^
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+                                                                                                 ^^^
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+                                                                                                 ^^^
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+Traceback (most recent call last):
+NameError: name 'sys' is not defined
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/sciclone/home/tdfelton/baseball/submit/gridsearch_mpi.py", line 90, in <module>
+    for (top_N, scale_wt, esr, thresh) in tqdm(my_grid, desc=f"Rank {rank}", position=rank, file=sys.stdout, dynamic_ncols=False, leave=True):
+                                                                                                 ^^^
+NameError: name 'sys' is not defined
