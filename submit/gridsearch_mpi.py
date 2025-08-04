@@ -28,9 +28,9 @@ categorical_cols = pd.read_pickle("/sciclone/home/tdfelton/baseball/categorical_
 # Parameter Grid
 # -------------------------------------------
 top_N_list = list(np.linspace(10, 260, num=25, dtype=int))
-scale_pos_weights = list(np.linspace(1.0, 10.0, num=25))
-early_stops = list(np.linspace(10, 1100, num=25, dtype=int))
-thresholds = list(np.linspace(0.4, 0.6, num=25))
+scale_pos_weights = list(np.linspace(1.0, 10.0, num=20))
+early_stops = list(np.linspace(10, 1100, num=10, dtype=int))
+thresholds = list(np.linspace(0.4, 0.6, num=10))
 
 param_grid = list(product(top_N_list, scale_pos_weights, early_stops, thresholds))
 split_grid = np.array_split(param_grid, size)
